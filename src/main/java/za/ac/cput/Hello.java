@@ -46,11 +46,11 @@ public class Hello
 
     @Override
     public String toString() {
-        return "Hello{" +
-                "name='" + name + '\'' +
-                ", Surname='" + Surname + '\'' +
-                ", age=" + age +
-                ", number='" + number + '\'' +
+        return "Hello {" +
+                "name ='" + name + '\'' +
+                ", Surname ='" + Surname + '\'' +
+                ", ag e=" + age +
+                ", number ='" + number + '\'' +
                 '}';
     }
 }
