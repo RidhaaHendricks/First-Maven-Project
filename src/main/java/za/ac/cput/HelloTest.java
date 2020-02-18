@@ -16,8 +16,8 @@ public class HelloTest extends Hello {
         hlo.setAge(sc.nextInt());
         System.out.println("Enter number: ");
         hlo.setNumber(sc.next());
-
-        System.out.println(hlo.toString());
+        System.out.println("Enter ID: ");
+        String id = sc.next();
 
     }
 }
